@@ -18,6 +18,6 @@ spec:
         image: alikingdom/loggeneator:0.7
         env:
         - name: DT_URL
-          value: {YOUR_DT_URL}
+          value: https://jmg62685.sprint.dynatracelabs.com
         - name: DT_LOG_INGEST_TOKEN
-          value: {YOUR_DT_LOG_INGEST_TOKEN}
+          value: dt0c01.5BBM2FUOQFQ4ZVPGYYOWS6XN.AGJ4M5XO7PEADGAJ44XI32TXTDLU5IGE5YR2OMDVOJF2GEBRZJTPYGZUITERBOGO
